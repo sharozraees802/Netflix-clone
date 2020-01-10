@@ -1,0 +1,13 @@
+/* global style */
+:root{
+    --primary-color: #e50914;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Arial',sans-serif;
+    -webkit-font-smootong:antialiased;
+}
